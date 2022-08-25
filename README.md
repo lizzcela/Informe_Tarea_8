@@ -108,18 +108,80 @@ e) ![image](https://user-images.githubusercontent.com/105623628/186764889-dc6416
 
 f) ![image](https://user-images.githubusercontent.com/105623628/186764918-bb16c0cf-49ef-483f-b54e-a19fb766bbfd.png)
 
+18. Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/105623628/186766636-5661f798-a88c-4d41-8450-7d667b8006f4.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186766661-d31b5755-8fe0-4fb2-b2fc-d451bca8b253.png)
+
+20. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuencia del voltaje a través de ambos elementos es la misma que la frecuencia de la fuente. Eso significa que la frecuencia del voltaje en la resistencia es de 8 KHz y la frecuencia del voltaje en el capacitor también es de 8 kHz.
+
+22. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/105623628/186766746-53541232-a21c-4203-aed3-8c6b90d7050f.png)
+
+24. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105623628/186766801-84abddfb-f33a-4159-9561-09049dc4f66d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186766824-ddbe5ada-4441-4011-b234-e641ea291d0e.png)
+
+26. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+
+![image](https://user-images.githubusercontent.com/105623628/186766892-428871bc-44f6-480c-8dc3-44511aff9196.png)
+
+28. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/105623628/186766926-2ec5f561-1729-44ca-801a-b352c4b2ddc9.png)
+
+30. Las inductancias de 8, 12 y 1,2 H están conectadas en un circuito. Si LT = 6H, ¿Cómo están conectados los inductores?
+
+![image](https://user-images.githubusercontent.com/105623628/186766988-abfd3b4b-17b6-407e-a321-1bce78d014ad.png)
+
+32. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+
+![image](https://user-images.githubusercontent.com/105623628/186767048-34a3d6c4-0834-46f1-b92c-0682b407ee87.png)
+
+34. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requisitos: P real = 400 W y un factor de potencia de adelanto (I tot aparece adelantada con respecto a Vs).
+
+![image](https://user-images.githubusercontent.com/105623628/186767130-5089e499-a7ac-485c-bd0c-e3006c5697f1.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186767175-46c6a230-c995-4459-8d60-5978597290d9.png)
+
+36. El circuito de retraso de la figura 15-91 también actúa como filtro pasa bajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/105623628/186767250-7df64d92-37c1-477f-85d7-a1dc161eeb51.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186767273-f6fb89b2-a2b1-488e-b23a-3ce092076722.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186767301-79e33e0b-fc1f-4769-b460-4795c4b898a7.png)
+
+38. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de avance de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/105623628/186767379-cd55ea89-3aaf-4f16-8e43-a47af46446f2.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186767401-ad50dae0-ce06-432c-b544-466625dfe07d.png)
 
 
+40. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
 
+![image](https://user-images.githubusercontent.com/105623628/186767459-7f875c92-6335-415b-afef-43fb77b27e8d.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186767478-94e2a045-c8dd-4c1d-89da-32de9fea2f71.png)
 
+42. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar
 
+![image](https://user-images.githubusercontent.com/105623628/186767555-14f564a9-b54d-4101-a77f-fe014fc6c010.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186767572-79ffb83c-c8dd-4d99-8c93-7574d81428d2.png)
 
+44. Para el circuito de la figura 15-97, determine lo siguiente:
 
+![image](https://user-images.githubusercontent.com/105623628/186767635-595100e9-05b1-48a7-b129-7d77f704670b.png)
 
-
-
+![image](https://user-images.githubusercontent.com/105623628/186767663-6d0bda63-0f21-4955-9055-7f4822403803.png)
 
 
 
