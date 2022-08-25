@@ -183,9 +183,73 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![image](https://user-images.githubusercontent.com/105623628/186767663-6d0bda63-0f21-4955-9055-7f4822403803.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186767806-3f087ded-0027-4e27-894c-b2382c9502ff.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186767836-4d0d951f-da2c-4100-b30a-fb4f0a70e83a.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186767865-e335a3a6-fd49-44df-8b16-065d3d3e759e.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186767882-199389e0-8532-4112-93f1-9abc09dec505.png)
+
+48. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
+
+![image](https://user-images.githubusercontent.com/105623628/186767978-981fcec0-82ba-47b8-83b4-169d8e5e6e89.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186767995-907abf72-0612-49cf-9cf5-0294e2565d9a.png)
+
+50. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/105623628/186768055-5cf9f37f-9d35-4370-9965-6026ab1dab05.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768096-05a21f66-6c2b-4360-b253-235d2a669029.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768138-4ecd1cc2-c804-4c46-9bac-20251d1c2712.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768230-1a151f0b-d6c4-4b07-af9f-029eb392a577.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768261-989d62e2-e209-4a3b-89c8-4342e43c0003.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768300-563fe43c-fd52-4f0a-8658-ba339d51a58d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768326-5d38c7d6-8a8d-4dfa-b652-b23b41c46675.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768368-1fb5f18e-abde-463f-b9c0-b2e26bf2ed7d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768384-99d37574-6699-47ba-99d7-c762667cb31d.png)
+
+52. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
+
+![image](https://user-images.githubusercontent.com/105623628/186768443-2182e17d-a843-421c-a9f3-acf883ae1b98.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768502-ba2bf35e-68bf-43dd-8234-7f81f4e6a5ce.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768530-232d1814-26bd-49fa-9b18-5f92f1b8875f.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768571-46ce2134-9cd9-4fcf-b80f-6fb57a8a574e.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768587-93d9fa7f-f24f-4abf-91e2-23729975509e.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768606-73903d5f-9acf-4555-831a-40a908ae50ae.png)
+54. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
+
+![image](https://user-images.githubusercontent.com/105623628/186768677-c87ce344-d98c-40d0-bf0a-a25865d631c9.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768710-fb674acb-b0b8-4dff-8a42-7d418032670f.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768731-24a94c54-375c-4a1c-aa2c-52f51d2b10ac.png)
+
+56. Encuentre la corriente a través de cada componente en la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/105623628/186768854-a4dbc3d9-b7eb-49f7-be65-a33db9cd5a6d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768881-e9b1804a-c5ec-4932-93e1-0f4f9d346c9f.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768914-6af282f9-76e8-4f23-a753-1c2c5a02ee60.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768950-02563afe-e025-4807-b7d8-ee07a59904fd.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186768980-aa488533-635a-4b9c-a620-26a374fa7735.png)
+ 
 
 
 - Capítulo 16
