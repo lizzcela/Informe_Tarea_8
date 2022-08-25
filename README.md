@@ -22,4 +22,6 @@ Trabajo Individual Capítulo 15 y Capítulo 16
 
 ![image](https://user-images.githubusercontent.com/105623628/186721678-e33bdec3-0361-4c44-980f-4d49b4d501bd.png)
 
+- CAPÍTULO 16
+
 ![image](https://user-images.githubusercontent.com/105623628/186721748-d22d0221-1f4e-439d-846e-6f4c45a1b9de.png)
