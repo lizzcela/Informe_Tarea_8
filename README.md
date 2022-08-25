@@ -250,9 +250,144 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![image](https://user-images.githubusercontent.com/105623628/186768980-aa488533-635a-4b9c-a620-26a374fa7735.png)
  
+![image](https://user-images.githubusercontent.com/105623628/186769199-c4efcaac-ace1-48d1-ad44-c0b2ca1a2bc1.png)
 
+![image](https://user-images.githubusercontent.com/105623628/186769219-99056f52-b856-411d-85cf-3eadef68def3.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769274-d4ee5b8d-b29d-4989-b918-ffbd400ce358.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769305-dbf5c272-5463-4a83-8afb-39196512e6d0.png)
+
+58. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determinar la potencia aparente.
+
+![image](https://user-images.githubusercontent.com/105623628/186769358-d1198ad0-d6b7-49c5-9175-e27ba7f5fc63.png)
+
+60. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+
+![image](https://user-images.githubusercontent.com/105623628/186769513-3ed07b36-6f97-473e-a7f6-7b4668f37a69.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769537-19ad1580-317d-4bb6-8995-6968f9ebc8ab.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769558-64b65763-30e5-4b4f-94fa-ff7fc49c4471.png)
+
+62. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene una impedancia de 50 Ω y un factor de potencia de 0,85. La carga B tiene una impedancia de 72 Ω y un factor de potencia de 0,95
+
+(a) ¿Cuánta corriente consume cada carga?
+
+(b) ¿Cuál es la potencia reactiva en cada carga?
+
+(c) ¿Cuál es la potencia real en cada carga?
+
+(d) ¿Cuál es la potencia aparente en cada carga?
+
+(e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
+
+![image](https://user-images.githubusercontent.com/105623628/186769676-4c7503cc-a200-4f29-a235-adb7af59c906.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769697-3ba6bdfc-6b2b-4f3c-aafc-70cdb38e22ec.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769720-346ce08d-9ca7-4a35-a088-a5d77171ef63.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769742-acc9b6f9-a1e0-437b-b961-132c0cdcbf96.png)
+
+64. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+65. 
+
+![image](https://user-images.githubusercontent.com/105623628/186769778-45738190-39a6-4ed1-bb90-8075a40d6f33.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769807-0df4f77f-9a28-4c1a-a683-e849d84b0bc4.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769829-eae2c5d4-7082-44c3-86a7-c771a9848261.png)
+
+66. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz.
+
+![image](https://user-images.githubusercontent.com/105623628/186769865-6c07032e-8c3b-4fc2-89c9-dfd7e424407e.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769881-5cc2c730-6991-4eb4-a527-da7138cd8a65.png)
+
+68. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+
+![image](https://user-images.githubusercontent.com/105623628/186769929-bcc7d690-643c-457a-80b8-61c58c678dba.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769967-88eb7546-a9bf-4bb0-8e28-18f07e382879.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186769985-26e4e573-c726-42b0-a4b3-70289fc0428b.png)
 
 - Capítulo 16
+2. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+
+![image](https://user-images.githubusercontent.com/105623628/186770085-d74eb5f6-5423-4d96-bef2-17a1d0b5906c.png)
+
+4. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular
+
+![image](https://user-images.githubusercontent.com/105623628/186770149-09ea87ad-b202-4de8-a479-005f6dc5b088.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770172-751c590f-67fa-4f3c-8765-83171ceaa391.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770188-70f35e1f-c333-4e09-ab7e-16bac6c80e79.png)
+
+6. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105623628/186770220-777febc3-9b60-467f-bec3-c5fc5ea72070.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770250-28017e5b-4ea8-4211-a007-e46288952332.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770267-c749f427-43df-4875-8821-06a7bcd822f9.png)
+
+8. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/105623628/186770296-345d7032-3f4a-4646-b7d8-597b4a74a75a.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770315-6751f8ec-49db-479f-880e-4390da8d377f.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770350-e6cd672a-d2f9-43e0-b031-a39395058fd2.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770371-7ea5b7b0-5037-4829-9379-3ba0e157490e.png)
+
+
+10. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/105623628/186770426-77f826a9-ccb7-454a-af83-72613b3694d6.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770448-b06c3445-81a3-4352-bf9b-d0c328c0f50d.png)
+
+12. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/105623628/186770502-6bc0de86-4edf-49b2-8149-9fa2be8b95df.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770528-e0e49841-4e99-417b-b8ce-d5aedd1f51d5.png)
+
+14. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/105623628/186770582-52ddb17c-000f-44be-998b-d7d5035efad2.png)
+
+16. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105623628/186770630-ba500aeb-22b5-4c9d-a9ee-9657c9c8694d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770668-232f819a-67a7-4937-857b-872b5160562d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770681-4c7d892a-3c33-4801-a487-ab1e4118bf34.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770713-7ea9d162-c0cd-4e80-aa5f-40e317cda4d9.png)
+
+18. Para el circuito de retardo de la figura 16-61, determine el retardo de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/105623628/186770779-fb82c557-5a4a-4a36-be0b-4aa15fc04629.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186770799-e78c6835-9d2a-47a6-a062-57ad3fe0f837.png)
+
+20.¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+![image](https://user-images.githubusercontent.com/105623628/186770838-07737188-c510-4192-a5aa-2c92f069e552.png)
+
+22. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/105623628/186770932-b1aec737-5069-43e6-873e-22c639223f5e.png)
+
+
+
+
+
 
 4. VÍDEO:
 
