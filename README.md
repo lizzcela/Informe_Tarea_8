@@ -384,10 +384,86 @@ Si se aplica un voltaje sinusoidal de 8 KHz a un circuito serie RC, la frecuenci
 
 ![image](https://user-images.githubusercontent.com/105623628/186770932-b1aec737-5069-43e6-873e-22c639223f5e.png)
 
+24. Determine las siguientes cantidades en la figura 16-65:
 
+![image](https://user-images.githubusercontent.com/105623628/186771362-70481254-537b-4631-9715-3de89e4edfde.png)
 
+26. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
 
+![image](https://user-images.githubusercontent.com/105623628/186771437-178d7b10-f0ca-4945-a412-b58b6633b15a.png)
 
+28. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/105623628/186771474-7830b1cb-39e4-45ee-9c95-606c5fedc272.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186771503-0449f16e-6c41-4362-bec6-e68e976cca53.png)
+
+30. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+
+![image](https://user-images.githubusercontent.com/105623628/186771540-3721d024-e7c5-4019-af51-3dc2d6804f77.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186771549-25ea8679-9c55-4f36-ab40-8ea902f4f0d5.png)
+
+32. Para el circuito de la figura 16-70, determine lo siguiente:
+
+(a) I (b) V (c) Vab
+
+![image](https://user-images.githubusercontent.com/105623628/186771619-e1668cd1-7bd1-4ca9-a529-7aa145d7be4f.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186771660-ece75cf9-8462-4d63-9c19-cf859fedfce0.png)
+
+b)              
+![image](https://user-images.githubusercontent.com/105623628/186771713-dc4da911-9de7-44ca-835c-1abb99174533.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186771823-4695ccaa-4470-4ab7-a127-fa8e08f9c371.png)
+
+34. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/105623628/186771880-bbe6ba4c-53fd-40de-84e5-52b8c59852c3.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186771905-401372dd-44d9-4815-9ebb-9442b2a6a4be.png)
+
+36. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/105623628/186771965-82668270-5ce7-4fdf-8256-87003c058908.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186771982-43ab9844-304e-4501-b382-b9cd58c84ab3.png)
+
+38. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/105623628/186772012-408c44dd-fd43-4362-82e4-2ece21c6ba00.png)
+
+40. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triangulo de potencia.
+
+![image](https://user-images.githubusercontent.com/105623628/186772044-f8b5cfb3-7c4d-4991-a280-a5be3e1a7f86.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772070-1eb27700-2ee1-41d8-8c58-43bcd31ecf29.png)
+
+42. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+![image](https://user-images.githubusercontent.com/105623628/186772103-83e0038c-e89a-4197-9538-7c15b93bac91.png)
+
+44. ![image](https://user-images.githubusercontent.com/105623628/186772131-6e0a3af5-f779-4fe9-8517-fdb358ad3e72.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772163-f6b41b50-f60e-4374-94de-b0314f0c6f21.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772188-894af81a-0594-4d12-9a87-e3065b5f2d2d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772204-b6ad2e17-1854-4501-82c4-0ec4a384b0fb.png)
+
+46. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
+(a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
+
+![image](https://user-images.githubusercontent.com/105623628/186772256-99f62b0b-ff56-4773-bfdb-6ce59f6e147b.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772287-02cd33fd-eba9-43e4-91b9-d366a66daa15.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772309-5d48710d-6645-448d-957a-f57e2ff990fe.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772325-a700e235-2cf3-491d-9135-add5965d5a8a.png)
+
+![image](https://user-images.githubusercontent.com/105623628/186772339-bd8512c3-c40d-423b-b7f6-5e53d7d9fd5d.png)
 
 4. VÍDEO:
 
