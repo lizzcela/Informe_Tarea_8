@@ -34,7 +34,7 @@ https://youtu.be/y9nyj7f54Lw
 
 - Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia o la forma de calcularla es:
 
-! [imagen] (https://user-images.githubusercontent.com/105623628/186722936-d1481cf1-b8d8-4e2c-9bb0-afa6352ce2d0.png)
+![image](https://user-images.githubusercontent.com/105623628/186723345-5d7e8d03-a1a6-453c-85f6-89cb31644739.png)
 
 - En un circuito RC la relación entre las corrientes y los voltajes se da cuando: la corriente que pasa por medio de un resistor está en fase con el voltaje, por otro lado, cuando la corriente pasa por un capacitor aparece adelantada en 90 grados con respecto al voltaje.
 
