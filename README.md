@@ -25,3 +25,25 @@ Trabajo Individual Capítulo 15 y Capítulo 16
 - CAPÍTULO 16
 
 ![image](https://user-images.githubusercontent.com/105623628/186721748-d22d0221-1f4e-439d-846e-6f4c45a1b9de.png)
+
+4. VÍDEO
+
+https://youtu.be/y9nyj7f54Lw
+
+5. CONCLUSIONES
+
+- Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia o la forma de calcularla es:
+
+! [imagen] (https://user-images.githubusercontent.com/105623628/186722936-d1481cf1-b8d8-4e2c-9bb0-afa6352ce2d0.png)
+
+- En un circuito RC la relación entre las corrientes y los voltajes se da cuando: la corriente que pasa por medio de un resistor está en fase con el voltaje, por otro lado, cuando la corriente pasa por un capacitor aparece adelantada en 90 grados con respecto al voltaje.
+
+- Para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo se debe seguir lo siguiente: primero expresar cada impedancia de rama en forma rectangular y transformar cada una de estas impedancias a forma polar, a continuación, se debe calcular la corriente de rama mediante notación polar, por lo cual una vez calculadas las corrientes de rama, es posible encontrar la corriente total sumando las dos corrientes de rama en forma rectangular.
+
+6. BIBLIOGRAFÍA 
+
+- Floyd, T. (2007). Principios de circuitos electricos. Monterrey: Pearson.
+
+
+
+
